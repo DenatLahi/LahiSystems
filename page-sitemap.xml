@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://lahisystems.se/</loc>
-		<lastmod>2026-04-09T21:39:06+00:00</lastmod>
+		<lastmod>2026-07-08T13:32:18+00:00</lastmod>
 		<image:image>
 			<image:loc>https://lahisystems.se/wp-content/uploads/2026/04/denat-lahi-naturfotograf-teknik-lodjur.jpg</image:loc>
 		</image:image>
@@ -13,10 +13,10 @@
 			<image:loc>https://lahisystems.se/wp-content/uploads/2026/01/WEBUSETHISMETADATA_MG_5822-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://lahisystems.se/wp-content/uploads/2026/01/WPY_JPG_MG_1311-1024x683.jpg</image:loc>
+			<image:loc>https://lahisystems.se/wp-content/uploads/2026/07/MG_0905MIDQUALITY-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://lahisystems.se/wp-content/uploads/2026/01/WEB_MG_0905-1024x683.jpg</image:loc>
+			<image:loc>https://lahisystems.se/wp-content/uploads/2026/01/WPY_JPG_MG_1311-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://lahisystems.se/wp-content/uploads/2026/04/Denat_Lahi_6-1024x683.jpg</image:loc>
@@ -31,10 +31,10 @@
 			<image:loc>https://lahisystems.se/wp-content/uploads/2026/04/denat-lahi-naturfotograf-teknik-lodjur-1024x576.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://lahisystems.se/wp-content/uploads/2026/04/Lahi-Systems-Logo-1024x683.png</image:loc>
+			<image:loc>https://lahisystems.se/wp-content/uploads/2026/07/LAHI-SYSTEMS-LOGO-R-1024x683.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://lahisystems.se/wp-content/uploads/2026/01/WEB_MG_0905-1024x683.jpg</image:loc>
+			<image:loc>https://lahisystems.se/wp-content/uploads/2026/07/MG_0905MIDQUALITY-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://lahisystems.se/wp-content/uploads/2026/01/WEBUSETHISMETADATA_MG_5822-1024x683.jpg</image:loc>
@@ -47,6 +47,12 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://lahisystems.se/wp-content/uploads/2026/04/Denat_Lahi_18-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://lahisystems.se/wp-content/uploads/2026/07/LAHI-SYSTEMS-LOGO-2-1024x494.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://lahisystems.se/wp-content/uploads/2026/07/INVERTED-LAHI-SYSTEMS-LOGO-2-1024x494.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -117,9 +123,6 @@
 			<image:loc>https://lahisystems.se/wp-content/uploads/2026/01/image-1024x867.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://lahisystems.se/wp-content/uploads/2026/01/WEB_MG_0905-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>https://lahisystems.se/wp-content/uploads/2026/01/613035434_17989504361920195_6444004092574806014_n-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
@@ -147,9 +150,6 @@
 	<url>
 		<loc>https://lahisystems.se/bildgalleri/</loc>
 		<lastmod>2026-04-09T14:56:59+00:00</lastmod>
-		<image:image>
-			<image:loc>https://lahisystems.se/wp-content/uploads/2026/01/WEB_MG_0905-1024x683.jpg</image:loc>
-		</image:image>
 		<image:image>
 			<image:loc>https://lahisystems.se/wp-content/uploads/2026/01/WPY_JPG_MG_1311-1024x683.jpg</image:loc>
 		</image:image>
